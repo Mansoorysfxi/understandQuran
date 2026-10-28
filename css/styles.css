@@ -1166,7 +1166,7 @@ button, input, select {
 /* ─── Word-by-Word Interlinear Grid (Stitch Page 2) ───────────────────────── */
 .words-interlinear-grid {
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: row;
   flex-wrap: wrap;
   align-items: stretch;
   justify-content: flex-start;

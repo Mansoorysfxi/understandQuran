@@ -120,3 +120,4 @@ The script automatically:
   - Fatah Muhammad Jalandhari (Urdu)
   - Sahih International (English)
 - **Review Notice:** Please review [Quran.com's Terms of Use](https://quran.com) and individual translation licenses before public distribution or commercial use.
+
